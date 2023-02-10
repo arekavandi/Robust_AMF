@@ -1,1 +1,2 @@
 # Robust_AMF
+This code was developed by Aref Miri Rekavandi and is based on the paper titled "Adaptive Matched Filter using Non-Target Free Training Data" by Rekavandi, A. M., Seghouane, A. K., & Evans, R. J. which was published in the ICASSP 2020 IEEE International Conference on Acoustics, Speech, and Signal Processing (pp. 1090-1094). If you utilize this code in your study, kindly reference the aforementioned article.
